@@ -18,6 +18,8 @@ _Mapping human expressions and gestures into emojis_
 In this project we implement a facial and gesture recognition program, leveraging the open-source framework MediaPipe.
 We create a pipeline for the recognition of facial expressions and gestures in real time through the computer webcam, matching them to a selection of emojis.
 
+The project was created as an assignment for the course "Practical Machine Learning" of the MSc Big Data and Analytics at the University of Piraeus taught by professor Ilias Maglogiannis.
+The full report can be found in the [Report.pdf](Report.pdf) file of this repo.
 
 ## Emoji Recognized
  - 🙂	Slightly Smiling Face	<br>
